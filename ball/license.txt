@@ -1,0 +1,11 @@
+Model Information:
+* title:	#SelfieTennis - Isometric Ball - 2
+* source:	https://sketchfab.com/3d-models/selfietennis-isometric-ball-2-ab730772daed448d880298443e4a46e4
+* author:	Jérémie Louvetz (https://sketchfab.com/jeremielouvetz)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "#SelfieTennis - Isometric Ball - 2" (https://sketchfab.com/3d-models/selfietennis-isometric-ball-2-ab730772daed448d880298443e4a46e4) by Jérémie Louvetz (https://sketchfab.com/jeremielouvetz) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
